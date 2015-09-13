@@ -3,6 +3,10 @@ learning-cobol
 
 This repository was created to learn basics of COBOL language and feel some old school vintage breeze
 
+![Grace Murray Hopper at the UNIVAC keyboard, c. 1960](https://github.com/pwittchen/learning-cobol/tree/master/assets/Grace_Hopper_and_UNIVAC.jpg)
+
+*Grace Murray Hopper (creator of COBOL) at the UNIVAC keyboard, c. 1960*
+
 Preparation for Linux
 ---------------------
 
