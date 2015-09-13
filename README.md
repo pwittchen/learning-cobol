@@ -44,3 +44,4 @@ References
 - [COBOL tutorials](http://www.tutorialspoint.com/cobol/)
 - [node-cobol - running COBOL with node.js](https://github.com/IonicaBizau/node-cobol/)
 - [All The Rich Kids Are Into COBOL - But Why?](http://readwrite.com/2014/09/17/cobol-programming-language-hot-or-not)
+- [COBOL programming - tutorials, lectures, exercises, examples](http://www.csis.ul.ie/cobol/)
