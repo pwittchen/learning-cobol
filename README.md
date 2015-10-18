@@ -41,6 +41,11 @@ Next, we can run the program
 $ ./hello
 ```
 
+IDE
+---
+
+[OpenCobol IDE](https://github.com/OpenCobolIDE/OpenCobolIDE)
+
 References
 ----------
 - [How to compile and run a COBOL program](http://askubuntu.com/questions/287180/how-to-compile-and-run-a-cobol-program)
@@ -49,3 +54,4 @@ References
 - [node-cobol - running COBOL with node.js](https://github.com/IonicaBizau/node-cobol/)
 - [All The Rich Kids Are Into COBOL - But Why?](http://readwrite.com/2014/09/17/cobol-programming-language-hot-or-not)
 - [COBOL programming - tutorials, lectures, exercises, examples](http://www.csis.ul.ie/cobol/)
+- [3 open source projects for modern COBOL development](https://opensource.com/life/15/10/open-source-cobol-development)
