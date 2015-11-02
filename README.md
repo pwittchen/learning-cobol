@@ -55,3 +55,4 @@ References
 - [All The Rich Kids Are Into COBOL - But Why?](http://readwrite.com/2014/09/17/cobol-programming-language-hot-or-not)
 - [COBOL programming - tutorials, lectures, exercises, examples](http://www.csis.ul.ie/cobol/)
 - [3 open source projects for modern COBOL development](https://opensource.com/life/15/10/open-source-cobol-development)
+- [COBOL on wheelchair - Micro web-framework for COBOL](https://github.com/azac/cobol-on-wheelchair)
